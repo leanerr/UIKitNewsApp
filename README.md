@@ -5,7 +5,6 @@
 
 <div style="display: flex; flex-direction: row;">
 <img width="250" alt="Ekran Resmi 2023-09-21 20 15 52" src="https://github.com/aleyaktas/NewsApp/assets/76265779/4c4bc71a-95e6-4baf-ada2-4eaecccdf5e5">
-<img width="250" alt="Ekran Resmi 2023-10-03 18 14 00" src="https://github.com/aleyaktas/NewsApp/assets/76265779/4625e368-342b-483e-ae3a-48d5115839e8">
 <img width="250" alt="Ekran Resmi 2023-10-03 18 13 51" src="https://github.com/aleyaktas/NewsApp/assets/76265779/f6d69759-c5bf-47f3-8168-9082a44f5a19">
 <img width="250" alt="Ekran Resmi 2023-10-03 18 14 08" src="https://github.com/aleyaktas/NewsApp/assets/76265779/953e395a-381a-46f6-8d8a-410efa57ba32">
 
