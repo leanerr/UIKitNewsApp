@@ -45,15 +45,9 @@
 
 To run the News App on your local machine, follow these steps:
 
-1. Clone this repository:
+Clone this repository:
 
 ```bash
-  git clone https://github.com/aleyaktas/NewsApp.git
+  git clone [https://github.com/aleyaktas/NewsApp.git](https://github.com/leanerr/UIKitNewsApp)
 ```
 
-2. Open the project in Xcode:
-
-```bash
-  cd NewsApp
-  open NewsApp.xcodeproj
-```
